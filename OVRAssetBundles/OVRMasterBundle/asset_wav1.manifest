@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 427136031
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fe7f46d1dd3450a83b3265e15675e4ef
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/MRTK/Examples/StandardAssets/Audio/FullOctave/BFlat.wav
+Dependencies: []

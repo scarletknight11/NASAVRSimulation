@@ -1,0 +1,47 @@
+ManifestFileVersion: 0
+CRC: 3129367036
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a844b2bdc670ad9731448e8767ac0ee8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c21d61fe394c58399df3c6fb5c7c99b3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/MRTK/SDK/StandardAssets/Textures/IconSettings.png
+- Assets/MRTK/SDK/StandardAssets/Textures/IconCamera.png
+- Assets/MRTK/StandardAssets/Icons/settings_icon.png
+- Assets/MRTK/StandardAssets/Textures/DefaultPointerDottedLine.png
+- Assets/MRTK/SDK/StandardAssets/Textures/IconFollowMe.png
+- Assets/MRTK/SDK/StandardAssets/Textures/IconDot.png
+- Assets/MRTK/SDK/StandardAssets/Textures/IconSpatialMapping.png
+- Assets/MRTK/StandardAssets/Textures/IridescentSpectrum.png
+- Assets/MRTK/SDK/StandardAssets/Textures/IconHome.png
+- Assets/MRTK/SDK/StandardAssets/Textures/IconMessage.png
+- Assets/MRTK/SDK/StandardAssets/Textures/IconHide.png
+- Assets/MRTK/SDK/StandardAssets/Textures/IconHandJoint.png
+- Assets/MRTK/StandardAssets/Textures/MRTK_Logo_White.png
+- Assets/MRTK/SDK/StandardAssets/Textures/IconAdjust.png
+- Assets/MRTK/SDK/StandardAssets/Textures/IconDone.png
+- Assets/MRTK/Examples/StandardAssets/Models/EarthCore.fbm/5.png
+- Assets/MRTK/SDK/StandardAssets/Textures/IconShow.png
+- Assets/MRTK/SDK/StandardAssets/Textures/IconClose.png
+- Assets/MRTK/SDK/StandardAssets/Textures/IconSearch.png
+- Assets/MRTK/SDK/StandardAssets/Textures/IconAdd.png
+- Assets/MRTK/SDK/StandardAssets/Textures/IconPin.png
+- Assets/MRTK/SDK/StandardAssets/Textures/IconProfiler.png
+- Assets/MRTK/SDK/StandardAssets/Textures/IconHandRay.png
+- Assets/MRTK/SDK/StandardAssets/Textures/Checker_albedo.png
+- Assets/MRTK/SDK/StandardAssets/Textures/IconStar.png
+- Assets/MRTK/SDK/StandardAssets/Textures/IconHandMesh.png
+- Assets/MRTK/SDK/StandardAssets/Textures/IconRefresh.png
+- Assets/MRTK/StandardAssets/Textures/MouseCursor.png
+- Assets/MRTK/SDK/StandardAssets/Textures/IconMicrophone.png
+Dependencies: []

@@ -1,0 +1,34 @@
+ManifestFileVersion: 0
+CRC: 3936669558
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: dbe0a195122260a6cae3e704e472ac1f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: af57576da81d5d3ce45807ac11234de6
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/MRTK/SDK/Features/UX/Animations/Cursors/TeleportCursor/TeleportCursorDisabled.anim
+- Assets/MRTK/SDK/Features/UX/Animations/Sliders/Slider_Button_Default.anim
+- Assets/MRTK/SDK/Features/UX/Animations/Cursors/DefaultCursor/DefaultCursorIdleAnim.anim
+- Assets/MRTK/SDK/Features/UX/Animations/Cursors/TeleportCursor/TeleportValid.anim
+- Assets/MRTK/SDK/Features/UX/Animations/Cursors/DefaultCursor/Contextual/DefaultCursorRotateHorizontal.anim
+- Assets/MRTK/SDK/Features/UX/Animations/Cursors/DefaultCursor/Contextual/DefaultCursorNoContext.anim
+- Assets/MRTK/SDK/Features/UX/Animations/Cursors/DefaultCursor/DefaultCursorPressedAnim.anim
+- Assets/MRTK/SDK/Features/UX/Animations/Cursors/TeleportCursor/TeleportInvalid.anim
+- Assets/MRTK/SDK/Features/UX/Animations/Cursors/DefaultCursor/Contextual/DefaultCursorMoveNorthSouth.anim
+- Assets/MRTK/SDK/Features/UX/Animations/Cursors/DefaultCursor/Contextual/DefaultCursorMoveNortheastSouthwest.anim
+- Assets/MRTK/SDK/Features/UX/Animations/Cursors/DefaultCursor/Contextual/DefaultCursorMoveCross.anim
+- Assets/MRTK/SDK/Features/UX/Animations/Sliders/Slider_Button_Hover.anim
+- Assets/MRTK/SDK/Features/UX/Animations/Cursors/DefaultCursor/Contextual/DefaultCursorRotateVertical.anim
+- Assets/MRTK/SDK/Features/UX/Animations/Cursors/TeleportCursor/TeleportIdle.anim
+- Assets/MRTK/SDK/Features/UX/Animations/Cursors/DefaultCursor/Contextual/DefaultCursorMoveEastWest.anim
+- Assets/MRTK/SDK/Features/UX/Animations/Cursors/DefaultCursor/Contextual/DefaultCursorMoveNorthwestSoutheast.anim
+- Assets/MRTK/SDK/Features/UX/Animations/Sliders/Slider_Button_Grab.anim
+- Assets/MRTK/SDK/Features/UX/Animations/Cursors/DefaultCursor/DefaultCursorIdleRingAnim.anim
+Dependencies: []

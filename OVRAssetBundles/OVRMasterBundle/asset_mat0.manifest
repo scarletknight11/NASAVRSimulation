@@ -1,0 +1,52 @@
+ManifestFileVersion: 0
+CRC: 2088010195
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 501b8fa319a022904072e207c4cba917
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ed098661139a8dfcb7d987ca0c8a1ba
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/MRTK/SDK/Features/UX/Interactable/Materials/HolographicButtonContentCage.mat
+- Assets/MRTK/SDK/Features/UX/Materials/HandIndexTip.mat
+- Assets/MRTK/StandardAssets/Materials/MRTK_Standard_TransparentRed.mat
+- Assets/MRTK/SDK/Features/UX/Interactable/Materials/MRTK_GrabbableDots2RowsH.mat
+- Assets/MRTK/SDK/Features/UX/Interactable/Materials/HolographicButtonIconClose.mat
+- Assets/MRTK/StandardAssets/Materials/MRTK_Standard_LightGray.mat
+- Assets/MRTK/StandardAssets/Materials/MRTK_Wireframe.mat
+- Assets/MRTK/StandardAssets/Materials/MRTK_Standard_Emerald.mat
+- Assets/MRTK/Examples/StandardAssets/Materials/InvisibleBacking.mat
+- Assets/MRTK/SDK/Features/UX/Materials/BoundingBoxSlateGrabbed.mat
+- Assets/MRTK/SDK/Features/UX/Interactable/Materials/CarryModeOutline.mat
+- Assets/MRTK/SDK/Experimental/MixedRealityKeyboardPreview/Materials/MixedRealityKeyboardPreviewCaret.mat
+- Assets/MRTK/SDK/Features/UX/Interactable/Materials/HolographicBackPlate.mat
+- Assets/MRTK/StandardAssets/Materials/MRTK_Standard_Green.mat
+- Assets/MRTK/StandardAssets/Materials/MRTK_Occlusion.mat
+- Assets/MRTK/SDK/Features/UX/Interactable/Materials/HolographicButtonContentCageProximityCircularUnityUI.mat
+- Assets/MRTK/SDK/Features/UX/Interactable/Materials/HolographicBackPlateGrabbed.mat
+- Assets/MRTK/SDK/Features/UX/Interactable/Materials/HolographicButtonContentCageProximityUnityUI.mat
+- Assets/MRTK/SDK/Features/UX/Interactable/Materials/HolographicButtonIconRefresh.mat
+- Assets/MRTK/SDK/Features/UX/Materials/PinchSliderTickMarkMaterial.mat
+- Assets/MRTK/SDK/Features/UX/Materials/HandJoint.mat
+- Assets/MRTK/SDK/StandardAssets/Materials/MRTK_GrabPointerGrabPoint.mat
+- Assets/MRTK/SDK/Features/UX/Interactable/Materials/HolographicBackPlateBorderOnly.mat
+- Assets/MRTK/SDK/Features/UX/Interactable/Materials/HolographicButtonIconFontMaterial.mat
+- Assets/MRTK/Examples/StandardAssets/Models/EarthCore.fbm/MaterialEarth.mat
+- Assets/MRTK/SDK/Features/UX/Materials/Teleport/TeleportMid.mat
+- Assets/MRTK/StandardAssets/Materials/MRTK_Standard_Purple.mat
+- Assets/MRTK/StandardAssets/Materials/MRTK_Standard_PurpleDesaturated.mat
+- Assets/MRTK/SDK/Features/UX/Interactable/Materials/HolographicBackPlateToggleState.mat
+- Assets/MRTK/SDK/StandardAssets/Materials/MRTK_FingerTipCursor.mat
+Dependencies:
+- C:/Users/sanji/OneDrive/Desktop/NASAVRSimulations/OVRAssetBundles/OVRMasterBundle/asset_png0
+- C:/Users/sanji/OneDrive/Desktop/NASAVRSimulations/OVRAssetBundles/OVRMasterBundle/asset_shader0

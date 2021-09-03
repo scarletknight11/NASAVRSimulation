@@ -1,0 +1,112 @@
+ManifestFileVersion: 0
+CRC: 1159576899
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9b7bb0157f6e94d5d392a1b40a5991d5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 1a84d4917196a70325622d3f1777d711
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 89
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: ab2114bdc8544297b417dfefe9f1e410, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2705215ac5b84b70bacc50632be6e391, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 84a92b25f83d49b9bc132d206b370281, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 156
+  Script: {instanceID: 0}
+- Class: 1953259897
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Oculus/VR/Resources/Unlit Transparent Color.shader
+- Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Drop Shadow.mat
+- Assets/TextMesh Pro/Resources/Style Sheets/Default Style Sheet.asset
+- Assets/Resources/OVRPlatformToolSettings.asset
+- Assets/Lunar Landscape 3D/Resources/Textures/Ground_01_D.png
+- Assets/Lunar Landscape 3D/Resources/Textures/LensDirt.png
+- Assets/Lunar Landscape 3D/Resources/Geometry/Rocks.fbx
+- Assets/Lunar Landscape 3D/Resources/Textures/Crater_Brush.png
+- Assets/Oculus/Avatar/Resources/Materials/AvatarPBRV2Simple.shader
+- Assets/Oculus/Avatar/Resources/FallbackTextures/fallback_normal_1024.tif
+- Assets/Lunar Landscape 3D/Resources/Textures/Ground_00_D.png
+- Assets/Oculus/Avatar/Resources/Materials/Version1.5/Avatar_PC_SingleComponent.shader
+- Assets/Oculus/Avatar/Resources/FallbackTextures/fallback_normal_256.png
+- Assets/Lunar Landscape 3D/Resources/Materials/Dust.mat
+- Assets/Lunar Landscape 3D/Resources/Materials/Ground_01.terrainlayer
+- Assets/Oculus/Avatar/Resources/Materials/Version1.5/Avatar_Mobile_CombinedMesh.shader
+- Assets/Oculus/VR/Resources/OVRMRCameraFrameLit.shader
+- Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset
+- Assets/Oculus/VR/Resources/Cubemap Blit.shader
+- Assets/TextMesh Pro/Resources/Sprite Assets/EmojiOne.asset
+- Assets/Oculus/VR/Resources/Underlay Impostor.shader
+- Assets/Resources/OVRBuildConfig.asset
+- Assets/Lunar Landscape 3D/Resources/Materials/Milkyway.mat
+- Assets/Lunar Landscape 3D/Resources/Textures/Ground_02_N.png
+- Assets/Oculus/VR/Resources/Underlay Transparent Occluder.shader
+- Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Outline.mat
+- Assets/Lunar Landscape 3D/Resources/Textures/Ground_01_N.png
+- Assets/Oculus/Avatar/Resources/Materials/AvatarSurfaceShaderSelfOccluding.shader
+- Assets/Oculus/Avatar/Resources/FallbackTextures/fallback_diffuse_roughness_2048.png
+- Assets/TextMesh Pro/Resources/LineBreaking Following Characters.txt
+- Assets/Lunar Landscape 3D/Resources/Textures/Ground_03_N.png
+- Assets/Lunar Landscape 3D/Resources/Textures/Ground_00_N.png
+- Assets/Lunar Landscape 3D/Resources/Textures/Milkyway.png
+- Assets/Oculus/VR/Resources/OVRMRUnlitTransparent.shader
+- Assets/Oculus/Avatar/Resources/FallbackTextures/fallback_diffuse_roughness_1024.png
+- Assets/Oculus/Avatar/Resources/Materials/Expressive/Avatar_PC_SingleComponentExpressive.shader
+- Assets/Lunar Landscape 3D/Resources/Materials/Rocks.mat
+- Assets/Oculus/VR/Resources/OVRMRUnlit.shader
+- Assets/Lunar Landscape 3D/Resources/Materials/Ground_02.terrainlayer
+- Assets/Oculus/Avatar/Resources/Materials/Expressive/AvatarEyeLens.shader
+- Assets/TextMesh Pro/Resources/TMP Settings.asset
+- Assets/Oculus/VR/Resources/OVRMRCameraFrame.shader
+- Assets/Lunar Landscape 3D/Resources/Materials/Crater_Brush.brush
+- Assets/Lunar Landscape 3D/Resources/Textures/Ground_02_D.png
+- Assets/Lunar Landscape 3D/Resources/Geometry/Terrain.asset
+- Assets/Oculus/Avatar/Resources/Materials/AvatarSurfaceShaderPBS.shader
+- Assets/Oculus/Avatar/Resources/Materials/Version1.5/Avatar_Mobile_SingleComponent.shader
+- Assets/Lunar Landscape 3D/Resources/Materials/Ground_03.terrainlayer
+- Assets/Oculus/Avatar/Resources/Materials/Expressive/Avatar_Mobile_CombinedMeshExpressive.shader
+- Assets/Oculus/Avatar/Resources/FallbackTextures/fallback_normal_2048.png
+- Assets/Oculus/Avatar/Resources/Materials/AvatarSurfaceShaderPBSV2.shader
+- Assets/Lunar Landscape 3D/Resources/Materials/Ground_00.terrainlayer
+- Assets/Oculus/Avatar/Resources/FallbackTextures/fallback_diffuse_roughness_256.png
+- Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset
+- Assets/Oculus/Avatar/Resources/Materials/Version1.5/Avatar_Mobile_Loader.shader
+- Assets/Oculus/Avatar/Resources/Materials/Expressive/Avatar_Mobile_SingleComponentExpressive.shader
+- Assets/Lunar Landscape 3D/Resources/Textures/Ground_03_D.png
+- Assets/Oculus/VR/Resources/Texture2D Blit.shader
+- Assets/TextMesh Pro/Resources/LineBreaking Leading Characters.txt
+- Assets/Oculus/Avatar/Resources/Materials/AvatarSurfaceShader.shader
+Dependencies:
+- C:/Users/sanji/OneDrive/Desktop/NASAVRSimulations/OVRAssetBundles/OVRMasterBundle/asset_shader0
+- C:/Users/sanji/OneDrive/Desktop/NASAVRSimulations/OVRAssetBundles/OVRMasterBundle/asset_ttf0

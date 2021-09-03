@@ -1,0 +1,112 @@
+ManifestFileVersion: 0
+CRC: 383692960
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: de5f7624b5eb51243e45485cf0f0b007
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cbcf2051ed90b47647df2ba7c97d0a83
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 19f279aded72cb741b4de89a54359dd4, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: db393d206eab4604ab74278cb6cda355, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7612acbc1a4a4ed0afa5f4ccbe42bee4, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8c2d00f2d26cc124caed106ffbfe3f06, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c33e3b76d6c5c0e48bb3b6ee686c7fd6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: cb41c8335e2ca96449f3991db5fa5702, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b71cb900fa9dec5488df2deb180db58f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3e721f74104fc5e498856a7c337d6632, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8275efdbe76bdff49a97a8e82fba118d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1f18fec9b55c4f818e284af454161962, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 514da61389c049c0bdaf31b7f6970d33, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e534d3d8fbada634785d567d8fe8562c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ee54661ca8af487c9db40e57d479fa48, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a794cc45c30a79b4da55bfd426876503, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1a1cf5fd47e548e6a23bdd3ddcc00cf6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e7e7db9a2688ed540af9819c456ba2e2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: eebbca41bb0b40d298ef201735d08616, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9fd6338e77774badb73a2b1320b41caf, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7554812f08ec49e694a8d9d4ee235a9c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a4a1c93114e9437cb75d8b3ee4e0e1ba, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d561f5f963b45674aa423435fb820879, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d1a15d870c8b4e52acc4643bd258ed6e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 78a4b02a0d9e7044fa19c6d432d0cafa, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/MRTK/SDK/Profiles/DefaultMixedRealityRegisteredServiceProvidersProfile.asset
+- Assets/MRTK/SDK/Profiles/DefaultMixedRealityEyeTrackingProfile.asset
+- Assets/MRTK/SDK/Features/UX/Interactable/Themes/HolographicButtonFrontPlate.asset
+- Assets/MRTK/Providers/WindowsMixedReality/Shared/Profiles/DefaultWindowsMixedRealityCameraSettingsProfile.asset
+- Assets/MRTK/SDK/Features/UX/Interactable/Themes/AppBarButtonIconTheme.asset
+- Assets/MRTK/SDK/Features/UX/Interactable/Themes/HolographicButtonBackPlate.asset
+- Assets/MRTK/SDK/Features/UX/Buttons/DefaultIconSet.asset
+- Assets/MRTK/SDK/Profiles/DefaultMixedRealityInputRecordingProfile.asset
+- Assets/MRTK/SDK/Profiles/DefaultMixedRealityControllerMappingProfile.asset
+- Assets/MRTK/SDK/Profiles/DefaultMixedRealityDiagnosticsProfile.asset
+- Assets/MRTK/SDK/Features/UX/Interactable/States/FocusPressTouchGrabStates.asset
+- Assets/MRTK/SDK/Profiles/HoloLens2/DefaultHoloLens2HandTrackingProfile.asset
+- Assets/MRTK/StandardAssets/FontsSDFTextures/seguisb SDF zwriteOff.asset
+- Assets/MRTK/SDK/Features/UX/Interactable/Themes/AppBarButtonBackgroundTheme.asset
+- Assets/MRTK/SDK/Profiles/DefaultMixedRealityInputSimulationProfile.asset
+- Assets/MRTK/SDK/Profiles/DefaultMixedRealitySpatialAwarenessMeshObserverProfile.asset
+- Assets/MRTK/SDK/Profiles/DefaultMixedRealitySpatialAwarenessSystemProfile.asset
+- Assets/MRTK/SDK/Features/UX/Interactable/Themes/PressableButtonToggleStateOff.asset
+- Assets/MRTK/SDK/Features/UX/Interactable/States/DefaultInteractableStates.asset
+- Assets/MRTK/SDK/Profiles/HoloLens2/DefaultHoloLens2InputSystemProfile.asset
+- Assets/MRTK/SDK/Profiles/DefaultMixedRealityInputActionRulesProfile.asset
+- Assets/MRTK/SDK/Features/UX/Interactable/Themes/AppBarButtonTextTheme.asset
+- Assets/MRTK/SDK/Profiles/DefaultMixedRealityInputActionsProfile.asset
+- Assets/MRTK/SDK/Profiles/HoloLens2/DefaultHoloLens2ConfigurationProfile.asset
+- Assets/MRTK/SDK/Features/UX/Interactable/Themes/PressableButtonToggleStateOn.asset
+- Assets/MRTK/SDK/Profiles/DefaultMixedRealityInputPointerProfile.asset
+- Assets/MRTK/SDK/Profiles/HoloLens2/DefaultHoloLens2CameraProfile.asset
+- Assets/MRTK/StandardAssets/FontsSDFTextures/segoeui SDF.asset
+- Assets/MRTK/SDK/Features/UX/Interactable/Themes/HolographicButtonSeeItSayItLabel.asset
+- Assets/MRTK/SDK/Features/UX/Interactable/Themes/PressableRoundButtonColor.asset
+Dependencies:
+- C:/Users/sanji/OneDrive/Desktop/NASAVRSimulations/OVRAssetBundles/OVRMasterBundle/asset_asset1
+- C:/Users/sanji/OneDrive/Desktop/NASAVRSimulations/OVRAssetBundles/OVRMasterBundle/asset_mat0
+- C:/Users/sanji/OneDrive/Desktop/NASAVRSimulations/OVRAssetBundles/OVRMasterBundle/asset_mat1
+- C:/Users/sanji/OneDrive/Desktop/NASAVRSimulations/OVRAssetBundles/OVRMasterBundle/asset_png0
+- C:/Users/sanji/OneDrive/Desktop/NASAVRSimulations/OVRAssetBundles/OVRMasterBundle/asset_prefab0
+- C:/Users/sanji/OneDrive/Desktop/NASAVRSimulations/OVRAssetBundles/OVRMasterBundle/asset_prefab1
+- C:/Users/sanji/OneDrive/Desktop/NASAVRSimulations/OVRAssetBundles/OVRMasterBundle/asset_psd0
+- C:/Users/sanji/OneDrive/Desktop/NASAVRSimulations/OVRAssetBundles/OVRMasterBundle/asset_shader0

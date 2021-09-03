@@ -1,0 +1,55 @@
+ManifestFileVersion: 0
+CRC: 2941522381
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3fa77ab7ec7233850faf53566c598af5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 29a48b81f82af351074d97928a0f9d21
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: c33e3b76d6c5c0e48bb3b6ee686c7fd6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1f18fec9b55c4f818e284af454161962, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 514da61389c049c0bdaf31b7f6970d33, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e7e7db9a2688ed540af9819c456ba2e2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9fd6338e77774badb73a2b1320b41caf, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7554812f08ec49e694a8d9d4ee235a9c, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/MRTK/SDK/Features/UX/Interactable/Themes/PressableButtonIcon.asset
+- Assets/MRTK/SDK/Features/UX/Interactable/Themes/PressableButtonFrontPlate.asset
+- Assets/MRTK/SDK/Features/UX/Interactable/Themes/PianoKeyThemeBlack.asset
+- Assets/MRTK/SDK/Profiles/DefaultMixedRealityBoundaryVisualizationProfile.asset
+- Assets/MRTK/SDK/Profiles/DefaultMixedRealityGesturesProfile.asset
+- Assets/MRTK/StandardAssets/FontsSDFTextures/seguisb SDF.asset
+- Assets/MRTK/SDK/Profiles/DefaultMixedRealitySpeechCommandsProfile.asset
+- Assets/MRTK/SDK/Profiles/DefaultMixedRealityControllerVisualizationProfile.asset
+- Assets/MRTK/SDK/Features/UX/Interactable/Themes/PianoKeyThemeWhite.asset
+- Assets/MRTK/StandardAssets/FontsSDFTextures/segoeuib SDF.asset
+Dependencies:
+- C:/Users/sanji/OneDrive/Desktop/NASAVRSimulations/OVRAssetBundles/OVRMasterBundle/asset_asset0
+- C:/Users/sanji/OneDrive/Desktop/NASAVRSimulations/OVRAssetBundles/OVRMasterBundle/asset_mat0
+- C:/Users/sanji/OneDrive/Desktop/NASAVRSimulations/OVRAssetBundles/OVRMasterBundle/asset_mat1
+- C:/Users/sanji/OneDrive/Desktop/NASAVRSimulations/OVRAssetBundles/OVRMasterBundle/asset_mat2
+- C:/Users/sanji/OneDrive/Desktop/NASAVRSimulations/OVRAssetBundles/OVRMasterBundle/asset_prefab0
+- C:/Users/sanji/OneDrive/Desktop/NASAVRSimulations/OVRAssetBundles/OVRMasterBundle/asset_prefab1
+- C:/Users/sanji/OneDrive/Desktop/NASAVRSimulations/OVRAssetBundles/OVRMasterBundle/asset_shader0

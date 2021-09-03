@@ -1,0 +1,63 @@
+ManifestFileVersion: 0
+CRC: 2095494202
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4772fa659d64ebbc4ef9f0bbe9267fb9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 7bc239b964a8120530370db063a6cc6b
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/MRTK/SDK/StandardAssets/Models/MRTK_BoundingBox_ScaleHandle_Slate.fbx
+- Assets/MRTK/SDK/Features/UX/Meshes/Sliders/Volumetric_UI_Components.fbx
+- Assets/MRTK/SDK/StandardAssets/Models/Model_Icosa.fbx
+- Assets/MRTK/SDK/StandardAssets/Models/Model_Bucky.fbx
+- Assets/MRTK/SDK/StandardAssets/Controllers/DebugControllers/Models/GizmoLeft.fbx
+- Assets/MRTK/SDK/Features/UX/Meshes/Cursors/Cursor_Rest_geo.fbx
+- Assets/MRTK/SDK/Features/UX/Meshes/Cursors/Cursor_Press_geo.fbx
+- Assets/MRTK/SDK/StandardAssets/Models/MRTK_FingerTipCursor.fbx
+- Assets/MRTK/SDK/Features/UX/Meshes/Cursors/Cursor_RotateArrows_geo.fbx
+- Assets/MRTK/SDK/StandardAssets/Models/MRTK_BoundingBox_RotateHandle.fbx
+- Assets/MRTK/Examples/StandardAssets/Models/CoffeeCup.fbx
+- Assets/MRTK/SDK/StandardAssets/Models/MRTK_BoundingBox_ScaleHandle.fbx
+- Assets/MRTK/SDK/Features/UX/Meshes/Sliders/Button_Oval_Concave_12x24mm_optimized.fbx
+- Assets/MRTK/SDK/Features/UX/Prefabs/RiggedHandVisualizer/R_Hand_MRTK_Rig.fbx
+- Assets/MRTK/SDK/Features/UX/Prefabs/RiggedHandVisualizer/L_Hand_MRTK_Rig.fbx
+- Assets/MRTK/SDK/Features/UX/Meshes/Cursors/Cursor_Focus_geo.fbx
+- Assets/MRTK/SDK/Features/UX/Meshes/HolographicButton/CompoundButtonMeshes.fbx
+- Assets/MRTK/SDK/StandardAssets/Controllers/DebugControllers/Models/GizmoRight.fbx
+- Assets/MRTK/SDK/Features/UX/Meshes/Cursors/TeleportCursor.fbx
+- Assets/MRTK/SDK/Features/UX/Meshes/Cursors/Cursor_MoveArrows_geo.fbx
+Dependencies:
+- C:/Users/sanji/OneDrive/Desktop/NASAVRSimulations/OVRAssetBundles/OVRMasterBundle/asset_mat0
+- C:/Users/sanji/OneDrive/Desktop/NASAVRSimulations/OVRAssetBundles/OVRMasterBundle/asset_mat1
+- C:/Users/sanji/OneDrive/Desktop/NASAVRSimulations/OVRAssetBundles/OVRMasterBundle/asset_mat2

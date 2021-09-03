@@ -1,0 +1,46 @@
+ManifestFileVersion: 0
+CRC: 632541702
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7ace6e07219ba27d432592a2a075d2cc
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/MRTK/StandardAssets/Audio/MRTK_Shell_Click_Out.wav
+- Assets/MRTK/StandardAssets/Audio/MRTK_Slider_Pass_Notch.wav
+- Assets/MRTK/Examples/StandardAssets/Audio/FullOctave/G.wav
+- Assets/MRTK/Examples/StandardAssets/Audio/FullOctave/CSharp.wav
+- Assets/MRTK/Examples/StandardAssets/Audio/FullOctave/E.wav
+- Assets/MRTK/Examples/StandardAssets/Audio/FullOctave/F.wav
+- Assets/MRTK/StandardAssets/Audio/MRTK_Shell_Click_In.wav
+- Assets/MRTK/Examples/StandardAssets/Audio/FullOctave/GSharp.wav
+- Assets/MRTK/Examples/StandardAssets/Audio/FullOctave/A.wav
+- Assets/MRTK/StandardAssets/Audio/MRTK_Slate_Release.wav
+- Assets/MRTK/Examples/StandardAssets/Audio/FullOctave/D.wav
+- Assets/MRTK/StandardAssets/Audio/MRTK_ButtonUnpress.wav
+- Assets/MRTK/StandardAssets/Audio/MRTK_Gem.wav
+- Assets/MRTK/StandardAssets/Audio/MRTK_Rotate_Start.wav
+- Assets/MRTK/Examples/StandardAssets/Audio/FullOctave/B.wav
+- Assets/MRTK/Examples/StandardAssets/Audio/FullOctave/FSharp.wav
+- Assets/MRTK/StandardAssets/Audio/MRTK_Scale_Stop.wav
+- Assets/MRTK/StandardAssets/Audio/MRTK_Slate_Touch.wav
+- Assets/MRTK/StandardAssets/Audio/MRTK_Rotate_Stop.wav
+- Assets/MRTK/Examples/StandardAssets/Audio/FullOctave/EFlat.wav
+- Assets/MRTK/Examples/StandardAssets/Audio/FullOctave/C.wav
+- Assets/MRTK/StandardAssets/Audio/MRTK_Move_End.wav
+- Assets/MRTK/StandardAssets/Audio/MRTK_Manipulation_Start.wav
+- Assets/MRTK/StandardAssets/Audio/MRTK_Move_Start.wav
+- Assets/MRTK/StandardAssets/Audio/MRTK_Select_Main.wav
+- Assets/MRTK/StandardAssets/Audio/MRTK_ButtonPress.wav
+- Assets/MRTK/StandardAssets/Audio/MRTK_Slider_Grab.wav
+- Assets/MRTK/StandardAssets/Audio/MRTK_Slider_Release.wav
+- Assets/MRTK/StandardAssets/Audio/MRTK_Scale_Start.wav
+- Assets/MRTK/StandardAssets/Audio/MRTK_Manipulation_End.wav
+Dependencies: []

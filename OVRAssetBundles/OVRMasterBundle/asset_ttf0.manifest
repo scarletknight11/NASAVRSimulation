@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 1782762931
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ae64fa6d2175bb3fbb38c50d6c7bdb63
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a198144cb4c85cbc59474c9cc2fa713a
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/MRTK/StandardAssets/Fonts/selawksl.ttf
+- Assets/MRTK/StandardAssets/Fonts/selawksb.ttf
+- Assets/MRTK/StandardAssets/Fonts/selawkb.ttf
+- Assets/MRTK/StandardAssets/Fonts/selawkl.ttf
+- Assets/MRTK/StandardAssets/Fonts/selawk.ttf
+- Assets/TextMesh Pro/Fonts/LiberationSans.ttf
+Dependencies: []

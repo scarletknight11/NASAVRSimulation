@@ -1,0 +1,45 @@
+ManifestFileVersion: 0
+CRC: 2322455231
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: aa434e26be58b7f7bf0e3eb8ee6a0b46
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ed098661139a8dfcb7d987ca0c8a1ba
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/MRTK/StandardAssets/Materials/MRTK_Standard_Red.mat
+- Assets/MRTK/SDK/Features/UX/Interactable/Materials/HolographicBackPlateNoBorder.mat
+- Assets/MRTK/SDK/StandardAssets/Materials/MRTK_Slider_Default.mat
+- Assets/MRTK/SDK/Features/UX/Meshes/Cursors/Materials/Light.mat
+- Assets/MRTK/SDK/StandardAssets/Materials/MRTK_PressableInteractablesButtonBox.mat
+- Assets/MRTK/StandardAssets/Materials/MRTK_Standard_Magenta.mat
+- Assets/MRTK/StandardAssets/Materials/MRTK_Standard_Lime.mat
+- Assets/MRTK/SDK/StandardAssets/Materials/MRTK_ArticulatedHandMesh.mat
+- Assets/MRTK/StandardAssets/Materials/MRTK_Standard_Yellow.mat
+- Assets/MRTK/StandardAssets/Materials/MRTK_Standard_Cyan.mat
+- Assets/MRTK/SDK/Features/UX/Interactable/Materials/HolographicButtonContentCageProximity.mat
+- Assets/MRTK/SDK/Features/UX/Materials/BoundingBoxHandleWhite.mat
+- Assets/MRTK/SDK/StandardAssets/Materials/MouseCursor.mat
+- Assets/MRTK/StandardAssets/Materials/MRTK_Standard_Orange.mat
+- Assets/MRTK/SDK/Experimental/MixedRealityKeyboardPreview/Materials/MixedRealityKeyboardPreviewTextRect.mat
+- Assets/MRTK/SDK/StandardAssets/Materials/MRTK_DefaultPointerLine.mat
+- Assets/MRTK/SDK/Features/UX/Materials/Teleport/TeleportBase.mat
+- Assets/MRTK/StandardAssets/Materials/MRTK_Standard_GlowingCyan.mat
+- Assets/MRTK/SDK/Features/UX/Materials/UnityUIBackground.mat
+- Assets/MRTK/SDK/Features/UX/Interactable/Materials/HolographicBackPlateHover.mat
+- Assets/MRTK/SDK/Features/UX/Interactable/Materials/MRTK_GrabbableDots2RowsV1.mat
+- Assets/MRTK/SDK/Features/UX/Interactable/Materials/HolographicButtonContentCageProximityCircular.mat
+- Assets/MRTK/SDK/Features/UX/Materials/BoundingBoxHandleBlueGrabbed.mat
+Dependencies:
+- C:/Users/sanji/OneDrive/Desktop/NASAVRSimulations/OVRAssetBundles/OVRMasterBundle/asset_png0
+- C:/Users/sanji/OneDrive/Desktop/NASAVRSimulations/OVRAssetBundles/OVRMasterBundle/asset_shader0
