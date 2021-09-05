@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 1096779423
+CRC: 4225538253
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 4d55b09471745aaed4d4e874f1244f54
+    Hash: 15c4ad8b0b51e9db92ea3eb25c478ea3
   TypeTreeHash:
     serializedVersion: 2
     Hash: 5ed098661139a8dfcb7d987ca0c8a1ba
@@ -17,36 +17,37 @@ ClassTypes:
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/MRTK/SDK/Features/UX/Interactable/Materials/ColorButtonProximity.mat
-- Assets/MRTK/SDK/Features/UX/Materials/BoundingBox.mat
-- Assets/MRTK/Examples/StandardAssets/Materials/PianoKeyWhite.mat
-- Assets/MRTK/Services/DiagnosticsSystem/Materials/DiagnosticsInstancedColored.mat
-- Assets/MRTK/StandardAssets/Materials/MRTK_Standard_Blue.mat
-- Assets/MRTK/SDK/Features/UX/Materials/PanContent.mat
-- Assets/MRTK/SDK/Features/UX/Materials/BoundingBoxLines.mat
-- Assets/MRTK/StandardAssets/Materials/MRTK_Standard_Black.mat
-- Assets/MRTK/SDK/Features/UX/Interactable/Materials/HolographicBackPlateCircular.mat
-- Assets/MRTK/SDK/Features/UX/Materials/Teleport/TeleportArrow.mat
-- Assets/MRTK/Examples/StandardAssets/Materials/Coffee.mat
-- Assets/MRTK/SDK/Features/UX/Meshes/Cursors/Materials/Shadow.mat
-- Assets/MRTK/Examples/StandardAssets/Materials/PianoKeys.mat
-- Assets/MRTK/SDK/Features/UX/Interactable/Materials/HolographicButtonIconSpatialMesh.mat
-- Assets/MRTK/SDK/Features/UX/Interactable/Materials/HolographicButtonPlate.mat
-- Assets/MRTK/SDK/Features/UX/Interactable/Materials/HolographicBackPlateRecordingState.mat
-- Assets/MRTK/SDK/StandardAssets/Materials/MRTK_GrabPointerTetherLine.mat
-- Assets/MRTK/SDK/Features/UX/Materials/BoundingBoxHandleBlue.mat
-- Assets/MRTK/Providers/Oculus/XRSDK/MRTK-Quest/Art/Materials/HandMeshOutline.mat
-- Assets/MRTK/SDK/Experimental/MixedRealityKeyboardPreview/Materials/MixedRealityKeyboardPreviewBackPlate.mat
-- Assets/MRTK/Examples/StandardAssets/Materials/Shelf.mat
-- Assets/MRTK/SDK/Features/UX/Interactable/Materials/HolographicButtonIconSearch.mat
-- Assets/MRTK/StandardAssets/Materials/MRTK_Standard_LimeDesaturated.mat
-- Assets/MRTK/SDK/StandardAssets/Materials/MRTK_DefaultPointerLineNoTarget.mat
-- Assets/MRTK/StandardAssets/Materials/MRTK_Standard_TransparentCyan.mat
-- Assets/MRTK/SDK/Features/UX/Materials/BoundingBoxSlate.mat
-- Assets/MRTK/SDK/Features/UX/Interactable/Materials/HolographicButtonIconStar.mat
-- Assets/MRTK/StandardAssets/Materials/MRTK_Standard_Pink.mat
-- Assets/MRTK/SDK/Experimental/MixedRealityKeyboardPreview/Materials/MixedRealityKeyboardPreviewButtonBackPlate.mat
-- Assets/MRTK/SDK/Features/UX/Materials/BoundingBoxGrabbed.mat
+- Assets/MRTK/StandardAssets/Materials/MRTK_Standard_Red.mat
+- Assets/Plugins/Excelsior/CSFHI/Materials/lightSphere_gold.mat
+- Assets/MRTK/SDK/Features/UX/Interactable/Materials/MRTK_GrabbableDots2RowsH.mat
+- Assets/MRTK/SDK/Features/UX/Interactable/Materials/HolographicButtonContentCage.mat
+- Assets/MRTK.Tutorials.GettingStarted/Materials/6.mat
+- Assets/MRTK/SDK/Features/UX/Meshes/Cursors/Materials/Light.mat
+- Assets/MRTK/StandardAssets/Materials/MRTK_Standard_TransparentRed.mat
+- Assets/MRTK/SDK/Features/UX/Interactable/Materials/HolographicButtonIconClose.mat
+- Assets/Plugins/Excelsior/CSFHI/Materials/gradient_blue.mat
+- Assets/MRTK/SDK/StandardAssets/Materials/MRTK_ArticulatedHandMesh.mat
+- Assets/MRTK/StandardAssets/Materials/MRTK_Standard_Emerald.mat
+- Assets/MRTK/Examples/StandardAssets/Materials/InvisibleBacking.mat
+- Assets/MRTK/StandardAssets/Materials/MRTK_Standard_Yellow.mat
+- Assets/MRTK/SDK/Features/UX/Materials/BoundingBoxSlateGrabbed.mat
+- Assets/MRTK/SDK/Features/UX/Interactable/Materials/CarryModeOutline.mat
+- Assets/MRTK/SDK/StandardAssets/Materials/MouseCursor.mat
+- Assets/MRTK/SDK/Features/UX/Interactable/Materials/HolographicButtonContentCageProximityCircularUnityUI.mat
+- Assets/MRTK/SDK/Features/UX/Interactable/Materials/HolographicBackPlateGrabbed.mat
+- Assets/MRTK/SDK/StandardAssets/Models/Materials/Cheese2.mat
+- Assets/MRTK/SDK/Features/UX/Interactable/Materials/HolographicButtonContentCageProximityUnityUI.mat
+- Assets/MRTK/SDK/StandardAssets/Materials/MRTK_DefaultPointerLine.mat
+- Assets/MRTK/SDK/Features/UX/Materials/PinchSliderTickMarkMaterial.mat
+- Assets/MRTK.Tutorials.GettingStarted/Materials/9.mat
+- Assets/MRTK/SDK/Features/UX/Materials/Teleport/TeleportBase.mat
+- Assets/MRTK/SDK/Features/UX/Interactable/Materials/HolographicBackPlateBorderOnly.mat
+- Assets/MRTK/SDK/Features/UX/Interactable/Materials/HolographicButtonIconFontMaterial.mat
+- Assets/MRTK/Examples/StandardAssets/Models/EarthCore.fbm/MaterialEarth.mat
+- Assets/MRTK/StandardAssets/Materials/MRTK_Standard_Purple.mat
+- Assets/MRTK/StandardAssets/Materials/MRTK_Standard_PurpleDesaturated.mat
+- Assets/MRTK/SDK/Features/UX/Interactable/Materials/HolographicBackPlateToggleState.mat
 Dependencies:
-- C:/Users/sanji/OneDrive/Desktop/NASAVRSimulations/OVRAssetBundles/OVRMasterBundle/asset_png0
-- C:/Users/sanji/OneDrive/Desktop/NASAVRSimulations/OVRAssetBundles/OVRMasterBundle/asset_shader0
+- C:/Users/sanji/OneDrive/Documents/GitHub/NASAVRSimulation/OVRAssetBundles/OVRMasterBundle/asset_png0
+- C:/Users/sanji/OneDrive/Documents/GitHub/NASAVRSimulation/OVRAssetBundles/OVRMasterBundle/asset_png1
+- C:/Users/sanji/OneDrive/Documents/GitHub/NASAVRSimulation/OVRAssetBundles/OVRMasterBundle/asset_shader0

@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2095494202
+CRC: 3562355837
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 4772fa659d64ebbc4ef9f0bbe9267fb9
+    Hash: d5cdda210837d6f26db8516f5ecb0bd1
   TypeTreeHash:
     serializedVersion: 2
     Hash: 7bc239b964a8120530370db063a6cc6b
@@ -37,27 +37,38 @@ ClassTypes:
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/MRTK/SDK/StandardAssets/Models/MRTK_BoundingBox_ScaleHandle_Slate.fbx
+- Assets/Oculus/VR/Meshes/OculusTouchForQuest2/OculusTouchForQuest2_Right.fbx
+- Assets/Oculus/VR/Meshes/OculusTouchForQuestAndRiftS/OculusTouchForQuestAndRiftS_Left.fbx
+- Assets/Oculus/VR/Meshes/OculusTouchForQuest2/OculusTouchForQuest2_Left.fbx
 - Assets/MRTK/SDK/Features/UX/Meshes/Sliders/Volumetric_UI_Components.fbx
+- Assets/MRTK/Examples/StandardAssets/Models/TheModule.fbx
+- Assets/MRTK/Examples/StandardAssets/Models/PianoModel.fbx
 - Assets/MRTK/SDK/StandardAssets/Models/Model_Icosa.fbx
-- Assets/MRTK/SDK/StandardAssets/Models/Model_Bucky.fbx
+- Assets/MRTK/Examples/StandardAssets/Models/Model_PushButton.fbx
 - Assets/MRTK/SDK/StandardAssets/Controllers/DebugControllers/Models/GizmoLeft.fbx
 - Assets/MRTK/SDK/Features/UX/Meshes/Cursors/Cursor_Rest_geo.fbx
 - Assets/MRTK/SDK/Features/UX/Meshes/Cursors/Cursor_Press_geo.fbx
 - Assets/MRTK/SDK/StandardAssets/Models/MRTK_FingerTipCursor.fbx
 - Assets/MRTK/SDK/Features/UX/Meshes/Cursors/Cursor_RotateArrows_geo.fbx
 - Assets/MRTK/SDK/StandardAssets/Models/MRTK_BoundingBox_RotateHandle.fbx
+- Assets/Oculus/VR/Meshes/OculusTouchForQuestAndRiftS/OculusTouchForQuestAndRiftS_Right.fbx
 - Assets/MRTK/Examples/StandardAssets/Models/CoffeeCup.fbx
+- Assets/MRTK/Examples/StandardAssets/Models/Model_Octa.fbx
 - Assets/MRTK/SDK/StandardAssets/Models/MRTK_BoundingBox_ScaleHandle.fbx
-- Assets/MRTK/SDK/Features/UX/Meshes/Sliders/Button_Oval_Concave_12x24mm_optimized.fbx
 - Assets/MRTK/SDK/Features/UX/Prefabs/RiggedHandVisualizer/R_Hand_MRTK_Rig.fbx
 - Assets/MRTK/SDK/Features/UX/Prefabs/RiggedHandVisualizer/L_Hand_MRTK_Rig.fbx
 - Assets/MRTK/SDK/Features/UX/Meshes/Cursors/Cursor_Focus_geo.fbx
+- Assets/MRTK/SDK/StandardAssets/Models/Cheese.fbx
+- Assets/Oculus/VR/Meshes/OculusTouchForRift/left_touch_controller_model_skel.fbx
 - Assets/MRTK/SDK/Features/UX/Meshes/HolographicButton/CompoundButtonMeshes.fbx
 - Assets/MRTK/SDK/StandardAssets/Controllers/DebugControllers/Models/GizmoRight.fbx
 - Assets/MRTK/SDK/Features/UX/Meshes/Cursors/TeleportCursor.fbx
 - Assets/MRTK/SDK/Features/UX/Meshes/Cursors/Cursor_MoveArrows_geo.fbx
+- Assets/Oculus/VR/Meshes/OculusTouchForRift/right_touch_controller_model_skel.fbx
+- Assets/MRTK/Examples/StandardAssets/Models/Model_Platonic.fbx
+- Assets/MRTK.Tutorials.GettingStarted/Models/MarsCuriosityRover_Modified.fbx
 Dependencies:
-- C:/Users/sanji/OneDrive/Desktop/NASAVRSimulations/OVRAssetBundles/OVRMasterBundle/asset_mat0
-- C:/Users/sanji/OneDrive/Desktop/NASAVRSimulations/OVRAssetBundles/OVRMasterBundle/asset_mat1
-- C:/Users/sanji/OneDrive/Desktop/NASAVRSimulations/OVRAssetBundles/OVRMasterBundle/asset_mat2
+- C:/Users/sanji/OneDrive/Documents/GitHub/NASAVRSimulation/OVRAssetBundles/OVRMasterBundle/asset_mat0
+- C:/Users/sanji/OneDrive/Documents/GitHub/NASAVRSimulation/OVRAssetBundles/OVRMasterBundle/asset_mat1
+- C:/Users/sanji/OneDrive/Documents/GitHub/NASAVRSimulation/OVRAssetBundles/OVRMasterBundle/asset_mat2
+- C:/Users/sanji/OneDrive/Documents/GitHub/NASAVRSimulation/OVRAssetBundles/OVRMasterBundle/asset_mat3

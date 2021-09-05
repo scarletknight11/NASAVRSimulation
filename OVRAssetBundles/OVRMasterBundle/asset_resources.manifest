@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 1159576899
+CRC: 541119702
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 9b7bb0157f6e94d5d392a1b40a5991d5
+    Hash: 850fc0724656a486199fc7a44cf800dd
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 1a84d4917196a70325622d3f1777d711
+    Hash: 74c489f094bef379a9bafbedde02c4bc
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -30,9 +30,13 @@ ClassTypes:
 - Class: 89
   Script: {instanceID: 0}
 - Class: 114
+  Script: {fileID: 11500000, guid: 2705215ac5b84b70bacc50632be6e391, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ad074644ff568a14187a3690cfbd7534, type: 3}
+- Class: 114
   Script: {fileID: 11500000, guid: ab2114bdc8544297b417dfefe9f1e410, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: 2705215ac5b84b70bacc50632be6e391, type: 3}
+  Script: {fileID: 11500000, guid: 54d21f6ece3b46479f0c328f8c6007e0, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 84a92b25f83d49b9bc132d206b370281, type: 3}
 - Class: 114
@@ -47,66 +51,106 @@ ClassTypes:
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/Oculus/VR/Resources/Unlit Transparent Color.shader
 - Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Drop Shadow.mat
-- Assets/TextMesh Pro/Resources/Style Sheets/Default Style Sheet.asset
-- Assets/Resources/OVRPlatformToolSettings.asset
+- Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/LiberationSans
+  SDF - Metalic Green.mat
+- Assets/TextMesh Pro/Examples & Extras/Resources/Sprite Assets/Default Sprite Asset.asset
 - Assets/Lunar Landscape 3D/Resources/Textures/Ground_01_D.png
-- Assets/Lunar Landscape 3D/Resources/Textures/LensDirt.png
-- Assets/Lunar Landscape 3D/Resources/Geometry/Rocks.fbx
 - Assets/Lunar Landscape 3D/Resources/Textures/Crater_Brush.png
-- Assets/Oculus/Avatar/Resources/Materials/AvatarPBRV2Simple.shader
-- Assets/Oculus/Avatar/Resources/FallbackTextures/fallback_normal_1024.tif
-- Assets/Lunar Landscape 3D/Resources/Textures/Ground_00_D.png
+- Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Roboto-Bold SDF.asset
 - Assets/Oculus/Avatar/Resources/Materials/Version1.5/Avatar_PC_SingleComponent.shader
+- Assets/Lunar Landscape 3D/Resources/Textures/Ground_00_D.png
 - Assets/Oculus/Avatar/Resources/FallbackTextures/fallback_normal_256.png
-- Assets/Lunar Landscape 3D/Resources/Materials/Dust.mat
+- Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/LiberationSans
+  SDF - Overlay.mat
 - Assets/Lunar Landscape 3D/Resources/Materials/Ground_01.terrainlayer
-- Assets/Oculus/Avatar/Resources/Materials/Version1.5/Avatar_Mobile_CombinedMesh.shader
 - Assets/Oculus/VR/Resources/OVRMRCameraFrameLit.shader
-- Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset
 - Assets/Oculus/VR/Resources/Cubemap Blit.shader
-- Assets/TextMesh Pro/Resources/Sprite Assets/EmojiOne.asset
 - Assets/Oculus/VR/Resources/Underlay Impostor.shader
-- Assets/Resources/OVRBuildConfig.asset
+- Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Bangers SDF Glow.mat
+- Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Anton SDF - Drop
+  Shadow.mat
+- Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Oswald Bold SDF.asset
 - Assets/Lunar Landscape 3D/Resources/Materials/Milkyway.mat
 - Assets/Lunar Landscape 3D/Resources/Textures/Ground_02_N.png
 - Assets/Oculus/VR/Resources/Underlay Transparent Occluder.shader
-- Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Outline.mat
 - Assets/Lunar Landscape 3D/Resources/Textures/Ground_01_N.png
-- Assets/Oculus/Avatar/Resources/Materials/AvatarSurfaceShaderSelfOccluding.shader
-- Assets/Oculus/Avatar/Resources/FallbackTextures/fallback_diffuse_roughness_2048.png
+- Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Roboto-Bold SDF
+  - Surface.mat
 - Assets/TextMesh Pro/Resources/LineBreaking Following Characters.txt
 - Assets/Lunar Landscape 3D/Resources/Textures/Ground_03_N.png
+- Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Anton SDF - Outline.mat
 - Assets/Lunar Landscape 3D/Resources/Textures/Ground_00_N.png
 - Assets/Lunar Landscape 3D/Resources/Textures/Milkyway.png
 - Assets/Oculus/VR/Resources/OVRMRUnlitTransparent.shader
+- Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Anton SDF - Sunny
+  Days.mat
+- Assets/Lunar Landscape 3D/Resources/Materials/Rocks.mat
+- Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Roboto-Bold SDF
+  - Drop Shadow.mat
+- Assets/Oculus/VR/Resources/OVRMRCameraFrame.shader
+- Assets/Lunar Landscape 3D/Resources/Materials/Crater_Brush.brush
+- Assets/Lunar Landscape 3D/Resources/Textures/Ground_02_D.png
+- Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Bangers SDF -
+  Outline.mat
+- Assets/Oculus/Avatar/Resources/Materials/Expressive/Avatar_Mobile_CombinedMeshExpressive.shader
+- Assets/Oculus/Avatar/Resources/Materials/AvatarSurfaceShaderPBSV2.shader
+- Assets/Lunar Landscape 3D/Resources/Materials/Ground_00.terrainlayer
+- Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Bangers SDF Logo.mat
+- Assets/Oculus/Avatar/Resources/FallbackTextures/fallback_diffuse_roughness_256.png
+- Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset
+- Assets/TextMesh Pro/Resources/Style Sheets/Default Style Sheet.asset
+- Assets/TextMesh Pro/Examples & Extras/Resources/Color Gradient Presets/Yellow to
+  Orange - Vertical.asset
+- Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Bangers SDF.asset
+- Assets/Lunar Landscape 3D/Resources/Textures/Ground_03_D.png
+- Assets/Oculus/Avatar/Resources/Materials/Expressive/Avatar_Mobile_SingleComponentExpressive.shader
+- Assets/Oculus/VR/Resources/Unlit Transparent Color.shader
+- Assets/Resources/OVRPlatformToolSettings.asset
+- Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/LiberationSans
+  SDF - Soft Mask.mat
+- Assets/Oculus/Avatar/Resources/FallbackTextures/fallback_normal_1024.tif
+- Assets/Lunar Landscape 3D/Resources/Textures/LensDirt.png
+- Assets/Lunar Landscape 3D/Resources/Geometry/Rocks.fbx
+- Assets/Oculus/Avatar/Resources/Materials/AvatarPBRV2Simple.shader
+- Assets/TextMesh Pro/Resources/Sprite Assets/EmojiOne.asset
+- Assets/TextMesh Pro/Examples & Extras/Resources/Sprite Assets/DropCap Numbers.asset
+- Assets/Lunar Landscape 3D/Resources/Materials/Dust.mat
+- Assets/Oculus/Avatar/Resources/Materials/Version1.5/Avatar_Mobile_CombinedMesh.shader
+- Assets/Resources/ONSPSettings.asset
+- Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset
+- Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Anton SDF.asset
+- Assets/Resources/OVRBuildConfig.asset
+- Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Outline.mat
+- Assets/Oculus/Avatar/Resources/Materials/AvatarSurfaceShaderSelfOccluding.shader
+- Assets/Oculus/Avatar/Resources/FallbackTextures/fallback_diffuse_roughness_2048.png
+- Assets/TextMesh Pro/Examples & Extras/Resources/Color Gradient Presets/Blue to
+  Purple - Vertical.asset
+- Assets/TextMesh Pro/Examples & Extras/Resources/Color Gradient Presets/Light to
+  Dark Green - Vertical.asset
+- Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Electronic Highway
+  Sign SDF.asset
 - Assets/Oculus/Avatar/Resources/FallbackTextures/fallback_diffuse_roughness_1024.png
 - Assets/Oculus/Avatar/Resources/Materials/Expressive/Avatar_PC_SingleComponentExpressive.shader
-- Assets/Lunar Landscape 3D/Resources/Materials/Rocks.mat
 - Assets/Oculus/VR/Resources/OVRMRUnlit.shader
 - Assets/Lunar Landscape 3D/Resources/Materials/Ground_02.terrainlayer
 - Assets/Oculus/Avatar/Resources/Materials/Expressive/AvatarEyeLens.shader
 - Assets/TextMesh Pro/Resources/TMP Settings.asset
-- Assets/Oculus/VR/Resources/OVRMRCameraFrame.shader
-- Assets/Lunar Landscape 3D/Resources/Materials/Crater_Brush.brush
-- Assets/Lunar Landscape 3D/Resources/Textures/Ground_02_D.png
-- Assets/Lunar Landscape 3D/Resources/Geometry/Terrain.asset
 - Assets/Oculus/Avatar/Resources/Materials/AvatarSurfaceShaderPBS.shader
 - Assets/Oculus/Avatar/Resources/Materials/Version1.5/Avatar_Mobile_SingleComponent.shader
+- Assets/Lunar Landscape 3D/Resources/Geometry/Terrain.asset
 - Assets/Lunar Landscape 3D/Resources/Materials/Ground_03.terrainlayer
-- Assets/Oculus/Avatar/Resources/Materials/Expressive/Avatar_Mobile_CombinedMeshExpressive.shader
+- Assets/TextMesh Pro/Examples & Extras/Resources/Color Gradient Presets/Dark to
+  Light Green - Vertical.asset
 - Assets/Oculus/Avatar/Resources/FallbackTextures/fallback_normal_2048.png
-- Assets/Oculus/Avatar/Resources/Materials/AvatarSurfaceShaderPBSV2.shader
-- Assets/Lunar Landscape 3D/Resources/Materials/Ground_00.terrainlayer
-- Assets/Oculus/Avatar/Resources/FallbackTextures/fallback_diffuse_roughness_256.png
-- Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset
+- Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Bangers SDF -
+  Drop Shadow.mat
 - Assets/Oculus/Avatar/Resources/Materials/Version1.5/Avatar_Mobile_Loader.shader
-- Assets/Oculus/Avatar/Resources/Materials/Expressive/Avatar_Mobile_SingleComponentExpressive.shader
-- Assets/Lunar Landscape 3D/Resources/Textures/Ground_03_D.png
-- Assets/Oculus/VR/Resources/Texture2D Blit.shader
 - Assets/TextMesh Pro/Resources/LineBreaking Leading Characters.txt
+- Assets/Oculus/VR/Resources/Texture2D Blit.shader
 - Assets/Oculus/Avatar/Resources/Materials/AvatarSurfaceShader.shader
 Dependencies:
-- C:/Users/sanji/OneDrive/Desktop/NASAVRSimulations/OVRAssetBundles/OVRMasterBundle/asset_shader0
-- C:/Users/sanji/OneDrive/Desktop/NASAVRSimulations/OVRAssetBundles/OVRMasterBundle/asset_ttf0
+- C:/Users/sanji/OneDrive/Documents/GitHub/NASAVRSimulation/OVRAssetBundles/OVRMasterBundle/asset_prefab0
+- C:/Users/sanji/OneDrive/Documents/GitHub/NASAVRSimulation/OVRAssetBundles/OVRMasterBundle/asset_prefab1
+- C:/Users/sanji/OneDrive/Documents/GitHub/NASAVRSimulation/OVRAssetBundles/OVRMasterBundle/asset_shader0
+- C:/Users/sanji/OneDrive/Documents/GitHub/NASAVRSimulation/OVRAssetBundles/OVRMasterBundle/asset_ttf0

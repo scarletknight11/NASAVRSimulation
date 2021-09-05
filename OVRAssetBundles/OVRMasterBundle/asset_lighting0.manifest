@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1743580410
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2fcff9283703f0e096bcc22eb634ba92
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: bb1c98fd3fd2df8fe937870a85fedf92
+HashAppended: 0
+ClassTypes:
+- Class: 850595691
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Lunar Landscape 3D/Scenes/LunarLandscape3DSettings.lighting
+Dependencies: []

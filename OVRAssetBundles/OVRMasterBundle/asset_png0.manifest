@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3129367036
+CRC: 488597329
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: a844b2bdc670ad9731448e8767ac0ee8
+    Hash: 4c72a5276fee7980a706e993156f799a
   TypeTreeHash:
     serializedVersion: 2
     Hash: c21d61fe394c58399df3c6fb5c7c99b3
@@ -15,33 +15,34 @@ ClassTypes:
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/MRTK/SDK/StandardAssets/Textures/IconSettings.png
+- Assets/MRTK/SDK/StandardAssets/Textures/IconHandMesh.png
 - Assets/MRTK/SDK/StandardAssets/Textures/IconCamera.png
+- Assets/Oculus/VR/Textures/HandTracking/HandTracking_uvmap_2048.png
 - Assets/MRTK/StandardAssets/Icons/settings_icon.png
+- Assets/MRTK.Tutorials.GettingStarted/Textures/9.png
 - Assets/MRTK/StandardAssets/Textures/DefaultPointerDottedLine.png
 - Assets/MRTK/SDK/StandardAssets/Textures/IconFollowMe.png
-- Assets/MRTK/SDK/StandardAssets/Textures/IconDot.png
 - Assets/MRTK/SDK/StandardAssets/Textures/IconSpatialMapping.png
+- Assets/MRTK.Tutorials.GettingStarted/Textures/7.png
+- Assets/MRTK.Tutorials.GettingStarted/Textures/6.png
 - Assets/MRTK/StandardAssets/Textures/IridescentSpectrum.png
 - Assets/MRTK/SDK/StandardAssets/Textures/IconHome.png
-- Assets/MRTK/SDK/StandardAssets/Textures/IconMessage.png
-- Assets/MRTK/SDK/StandardAssets/Textures/IconHide.png
-- Assets/MRTK/SDK/StandardAssets/Textures/IconHandJoint.png
+- Assets/Plugins/Excelsior/Common/Textures/gradientVertical.png
+- Assets/Plugins/Excelsior/CSFHI/Sprites/txt02.png
 - Assets/MRTK/StandardAssets/Textures/MRTK_Logo_White.png
-- Assets/MRTK/SDK/StandardAssets/Textures/IconAdjust.png
+- Assets/MRTK.Tutorials.GettingStarted/Textures/8.png
+- Assets/Plugins/Excelsior/CSFHI/Sprites/txt.png
 - Assets/MRTK/SDK/StandardAssets/Textures/IconDone.png
-- Assets/MRTK/Examples/StandardAssets/Models/EarthCore.fbm/5.png
-- Assets/MRTK/SDK/StandardAssets/Textures/IconShow.png
+- Assets/Oculus/VR/Textures/OculusTouchForRift/touchController_albedo.png
 - Assets/MRTK/SDK/StandardAssets/Textures/IconClose.png
-- Assets/MRTK/SDK/StandardAssets/Textures/IconSearch.png
+- Assets/MRTK/Examples/StandardAssets/Models/EarthCore.fbm/5.png
 - Assets/MRTK/SDK/StandardAssets/Textures/IconAdd.png
-- Assets/MRTK/SDK/StandardAssets/Textures/IconPin.png
 - Assets/MRTK/SDK/StandardAssets/Textures/IconProfiler.png
 - Assets/MRTK/SDK/StandardAssets/Textures/IconHandRay.png
-- Assets/MRTK/SDK/StandardAssets/Textures/Checker_albedo.png
-- Assets/MRTK/SDK/StandardAssets/Textures/IconStar.png
-- Assets/MRTK/SDK/StandardAssets/Textures/IconHandMesh.png
-- Assets/MRTK/SDK/StandardAssets/Textures/IconRefresh.png
 - Assets/MRTK/StandardAssets/Textures/MouseCursor.png
-- Assets/MRTK/SDK/StandardAssets/Textures/IconMicrophone.png
+- Assets/MRTK.Tutorials.GettingStarted/Textures/10.png
+- Packages/com.unity.cinemachine/Editor/EditorResources/cm_logo_sm.png
+- Assets/MRTK/SDK/StandardAssets/Textures/IconRefresh.png
+- Assets/MRTK/SDK/StandardAssets/Textures/IconStar.png
+- Assets/MRTK/Examples/StandardAssets/Textures/CoffeeFoam.png
 Dependencies: []

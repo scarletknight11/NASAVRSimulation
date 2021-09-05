@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 841355998
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3ed206c002c06ccd12bdb75ac2e7a6d5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/MRTK/SDK/StandardAssets/Textures/IconSettings.png
+- Assets/MRTK/Examples/StandardAssets/Models/Tree.fbm/5.png
+- Assets/MRTK/SDK/StandardAssets/Textures/IconDot.png
+- Assets/MRTK/SDK/StandardAssets/Textures/IconMessage.png
+- Assets/MRTK/SDK/StandardAssets/Textures/IconHide.png
+- Assets/MRTK/SDK/StandardAssets/Textures/IconHandJoint.png
+- Assets/MRTK/SDK/StandardAssets/Textures/IconAdjust.png
+- Assets/MRTK/Examples/StandardAssets/Textures/PianoKeys_DIF.png
+- Assets/MRTK/SDK/StandardAssets/Textures/IconShow.png
+- Assets/MRTK/SDK/StandardAssets/Textures/IconSearch.png
+- Assets/MRTK/SDK/StandardAssets/Textures/IconPin.png
+- Assets/MRTK/SDK/StandardAssets/Textures/IconMicrophone.png
+- Assets/MRTK/SDK/StandardAssets/Textures/Checker_albedo.png
+- Assets/MRTK/Examples/StandardAssets/Textures/PianoKeys_NM.png
+Dependencies: []

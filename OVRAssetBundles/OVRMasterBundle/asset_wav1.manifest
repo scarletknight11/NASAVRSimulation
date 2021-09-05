@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 427136031
+CRC: 2041603856
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: fe7f46d1dd3450a83b3265e15675e4ef
+    Hash: 9f7e78e1f6b33c7d6553fac1e9482f1e
   TypeTreeHash:
     serializedVersion: 2
     Hash: 9a2ca7bdbd1871f7131daf57de908e0c
@@ -13,5 +13,16 @@ ClassTypes:
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
+- Assets/MRTK/StandardAssets/Audio/MRTK_Scale_Stop.wav
+- Assets/MRTK/Examples/StandardAssets/Audio/FullOctave/E.wav
 - Assets/MRTK/Examples/StandardAssets/Audio/FullOctave/BFlat.wav
+- Assets/MRTK/StandardAssets/Audio/MRTK_Shell_Click_In.wav
+- Assets/MRTK/Examples/StandardAssets/Audio/FullOctave/FSharp.wav
+- Assets/MRTK/Examples/StandardAssets/Audio/FullOctave/B.wav
+- Assets/MRTK/StandardAssets/Audio/MRTK_Rotate_Start.wav
+- Assets/MRTK/StandardAssets/Audio/MRTK_Rotate_Stop.wav
+- Assets/MRTK/Examples/StandardAssets/Audio/FullOctave/EFlat.wav
+- Assets/MRTK/StandardAssets/Audio/MRTK_Move_End.wav
+- Assets/MRTK/StandardAssets/Audio/MRTK_Move_Start.wav
+- Assets/MRTK/StandardAssets/Audio/MRTK_Scale_Start.wav
 Dependencies: []

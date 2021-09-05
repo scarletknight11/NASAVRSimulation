@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1435866121
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d817a56eb45cd71c472eed39424e3a9c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Audio/34. First Flight (Iron Man Complete Score).mp3
+Dependencies: []

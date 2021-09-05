@@ -1,34 +1,51 @@
 ManifestFileVersion: 0
-CRC: 3936669558
+CRC: 1995331548
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: dbe0a195122260a6cae3e704e472ac1f
+    Hash: b7f7c78249e60c9404d77e4674e5e525
   TypeTreeHash:
     serializedVersion: 2
-    Hash: af57576da81d5d3ce45807ac11234de6
+    Hash: 25c4a6046e7de347290cc5bfbf19b517
 HashAppended: 0
 ClassTypes:
 - Class: 74
   Script: {instanceID: 0}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/MRTK/SDK/Features/UX/Animations/Cursors/TeleportCursor/TeleportCursorDisabled.anim
-- Assets/MRTK/SDK/Features/UX/Animations/Sliders/Slider_Button_Default.anim
-- Assets/MRTK/SDK/Features/UX/Animations/Cursors/DefaultCursor/DefaultCursorIdleAnim.anim
-- Assets/MRTK/SDK/Features/UX/Animations/Cursors/TeleportCursor/TeleportValid.anim
 - Assets/MRTK/SDK/Features/UX/Animations/Cursors/DefaultCursor/Contextual/DefaultCursorRotateHorizontal.anim
+- Assets/Plugins/Excelsior/CSFHI/Animation/ScaleOut2Dcanvas_Disappear.anim
+- Assets/MRTK/SDK/Features/UX/Animations/Cursors/DefaultCursor/DefaultCursorIdleAnim.anim
+- Assets/Plugins/Excelsior/CSFHI/Animation/branch_Appear.anim
+- Assets/Plugins/Excelsior/CSFHI/Animation/customBloc_Disappear.anim
 - Assets/MRTK/SDK/Features/UX/Animations/Cursors/DefaultCursor/Contextual/DefaultCursorNoContext.anim
 - Assets/MRTK/SDK/Features/UX/Animations/Cursors/DefaultCursor/DefaultCursorPressedAnim.anim
+- Assets/Plugins/Excelsior/CSFHI/Animation/txt_Appear.anim
+- Assets/Plugins/Excelsior/CSFHI/Animation/ScaleIn3D_Appear.anim
+- Assets/Plugins/Excelsior/CSFHI/Animation/border_Disappear.anim
+- Assets/Plugins/Excelsior/CSFHI/Animation/frame_Appear.anim
 - Assets/MRTK/SDK/Features/UX/Animations/Cursors/TeleportCursor/TeleportInvalid.anim
-- Assets/MRTK/SDK/Features/UX/Animations/Cursors/DefaultCursor/Contextual/DefaultCursorMoveNorthSouth.anim
+- Assets/Plugins/Excelsior/CSFHI/Animation/rotateSlow.anim
 - Assets/MRTK/SDK/Features/UX/Animations/Cursors/DefaultCursor/Contextual/DefaultCursorMoveNortheastSouthwest.anim
-- Assets/MRTK/SDK/Features/UX/Animations/Cursors/DefaultCursor/Contextual/DefaultCursorMoveCross.anim
-- Assets/MRTK/SDK/Features/UX/Animations/Sliders/Slider_Button_Hover.anim
+- Assets/MRTK/SDK/Features/UX/Animations/Cursors/DefaultCursor/Contextual/DefaultCursorMoveNorthSouth.anim
 - Assets/MRTK/SDK/Features/UX/Animations/Cursors/DefaultCursor/Contextual/DefaultCursorRotateVertical.anim
-- Assets/MRTK/SDK/Features/UX/Animations/Cursors/TeleportCursor/TeleportIdle.anim
+- Assets/Plugins/Excelsior/CSFHI/Animation/txt02_Loop.anim
+- Assets/Plugins/Excelsior/CSFHI/Animation/border_Appear.anim
 - Assets/MRTK/SDK/Features/UX/Animations/Cursors/DefaultCursor/Contextual/DefaultCursorMoveEastWest.anim
 - Assets/MRTK/SDK/Features/UX/Animations/Cursors/DefaultCursor/Contextual/DefaultCursorMoveNorthwestSoutheast.anim
-- Assets/MRTK/SDK/Features/UX/Animations/Sliders/Slider_Button_Grab.anim
+- Assets/Plugins/Excelsior/CSFHI/Animation/txt_Disappear.anim
+- Assets/Plugins/Excelsior/CSFHI/Animation/frame_Disappear.anim
+- Assets/Plugins/Excelsior/CSFHI/Animation/ScaleInOutLight.anim
+- Assets/Plugins/Excelsior/CSFHI/Animation/keyblocks_Disappear.anim
 - Assets/MRTK/SDK/Features/UX/Animations/Cursors/DefaultCursor/DefaultCursorIdleRingAnim.anim
-Dependencies: []
+- Assets/Plugins/Excelsior/CSFHI/Animation/txt_Loop.anim
+- Assets/Plugins/Excelsior/CSFHI/Animation/ScaleOut3D_Disappear.anim
+- Assets/Plugins/Excelsior/CSFHI/Animation/branch_Disappear.anim
+- Assets/Plugins/Excelsior/CSFHI/Animation/ScaleInOut.anim
+Dependencies:
+- C:/Users/sanji/OneDrive/Documents/GitHub/NASAVRSimulation/OVRAssetBundles/OVRMasterBundle/asset_png0

@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 2760965836
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1f2759cd7ed37c5ae8bf316d920925d1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a198144cb4c85cbc59474c9cc2fa713a
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Plugins/Excelsior/Common/Fonts/GidoleFont/Gidolinya-Regular.otf
+Dependencies: []

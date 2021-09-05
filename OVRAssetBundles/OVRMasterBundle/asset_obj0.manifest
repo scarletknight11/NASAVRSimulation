@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 2221639162
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4ad1fd942a9f7cc98e1dac349518bca7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 69b7c850adea132b1d181397a041730a
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Plugins/Excelsior/CSFHI/Models/Tube.obj
+Dependencies: []

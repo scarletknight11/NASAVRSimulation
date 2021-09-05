@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 1224175473
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4a9aea3ec07fe9d6c5e81d9effbead72
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 25c4a6046e7de347290cc5bfbf19b517
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/MRTK/SDK/Features/UX/Animations/Sliders/Slider_Button_Default.anim
+- Assets/Plugins/Excelsior/CSFHI/Animation/rectBlocks_Loop.anim
+- Assets/MRTK/SDK/Features/UX/Animations/Cursors/TeleportCursor/TeleportValid.anim
+- Assets/Plugins/Excelsior/CSFHI/Animation/keyblocks_Appear.anim
+- Assets/Plugins/Excelsior/CSFHI/Animation/keyblocks_Loop.anim
+- Assets/Plugins/Excelsior/CSFHI/Animation/ScaleIn2Dcanvas_Appear.anim
+- Assets/MRTK/SDK/Features/UX/Animations/Cursors/DefaultCursor/Contextual/DefaultCursorMoveCross.anim
+- Assets/MRTK/SDK/Features/UX/Animations/Sliders/Slider_Button_Hover.anim
+- Assets/Plugins/Excelsior/CSFHI/Animation/customBloc_Appear.anim
+- Assets/MRTK/SDK/Features/UX/Animations/Cursors/TeleportCursor/TeleportIdle.anim
+- Assets/MRTK/SDK/Features/UX/Animations/Sliders/Slider_Button_Grab.anim
+Dependencies:
+- C:/Users/sanji/OneDrive/Documents/GitHub/NASAVRSimulation/OVRAssetBundles/OVRMasterBundle/asset_psd0

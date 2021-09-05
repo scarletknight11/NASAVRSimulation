@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2677331702
+CRC: 2630752308
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: b63ab64b9261b1c1d35f17dfce736c91
+    Hash: 655a1214bca7cd15b265bedadd9ef69e
   TypeTreeHash:
     serializedVersion: 2
     Hash: c21d61fe394c58399df3c6fb5c7c99b3
@@ -16,7 +16,23 @@ ClassTypes:
 SerializeReferenceClassIdentifiers: []
 Assets:
 - Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Dropdown Icon.psd
+- Assets/Plugins/Excelsior/CSFHI/Sprites/circle06.psd
+- Assets/Plugins/Excelsior/CSFHI/Sprites/frameAndBorder03.psd
+- Assets/Plugins/Excelsior/CSFHI/Sprites/frameAndBorder06.psd
 - Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Font Asset Icon.psd
+- Assets/Plugins/Excelsior/CSFHI/Sprites/circle04.psd
 - Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Text Component Icon.psd
+- Assets/Plugins/Excelsior/Common/Sprite/customSpriteTransparent.psd
+- Assets/Plugins/Excelsior/CSFHI/Sprites/frameAndBorder05.psd
 - Assets/MRTK/SDK/StandardAssets/Sprites/DefaultIconsSpriteSheet.psd
+- Assets/Plugins/Excelsior/CSFHI/Sprites/frameAndBorder.psd
+- Assets/Plugins/Excelsior/CSFHI/Sprites/circle03.psd
+- Assets/Plugins/Excelsior/CSFHI/Sprites/circle02.psd
+- Assets/Plugins/Excelsior/CSFHI/Sprites/circle.psd
+- Assets/Plugins/Excelsior/CSFHI/Sprites/rectBlocks.psd
+- Assets/Plugins/Excelsior/CSFHI/Sprites/circlePoints03.psd
+- Assets/Plugins/Excelsior/CSFHI/Sprites/branch.psd
+- Assets/Plugins/Excelsior/CSFHI/Sprites/frameAndBorder07.psd
+- Assets/Plugins/Excelsior/CSFHI/Sprites/keyBlocks.psd
+- Assets/Plugins/Excelsior/CSFHI/Sprites/circle05.psd
 Dependencies: []
