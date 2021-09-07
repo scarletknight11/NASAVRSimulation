@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3792529294
+CRC: 3897667041
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 7975d676e490ab07403b1f304c115a83
+    Hash: 6e3390a5dfdce983b8e053bca9e3af8f
   TypeTreeHash:
     serializedVersion: 2
     Hash: 896abb461db74983743804c7ce78fbbc
@@ -191,5 +191,6 @@ Dependencies:
 - C:/Users/sanji/OneDrive/Documents/GitHub/NASAVRSimulation/OVRAssetBundles/OVRMasterBundle/asset_png1
 - C:/Users/sanji/OneDrive/Documents/GitHub/NASAVRSimulation/OVRAssetBundles/OVRMasterBundle/asset_prefab1
 - C:/Users/sanji/OneDrive/Documents/GitHub/NASAVRSimulation/OVRAssetBundles/OVRMasterBundle/asset_psd0
+- C:/Users/sanji/OneDrive/Documents/GitHub/NASAVRSimulation/OVRAssetBundles/OVRMasterBundle/asset_resources
 - C:/Users/sanji/OneDrive/Documents/GitHub/NASAVRSimulation/OVRAssetBundles/OVRMasterBundle/asset_wav0
 - C:/Users/sanji/OneDrive/Documents/GitHub/NASAVRSimulation/OVRAssetBundles/OVRMasterBundle/asset_wav1
