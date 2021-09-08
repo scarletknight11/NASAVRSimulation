@@ -16,7 +16,7 @@ GameObject:
   - component: {fileID: 859277763570030135}
   - component: {fileID: 859277763570030132}
   - component: {fileID: 859277763570030157}
-  - component: {fileID: 859277763570030130}
+  - component: {fileID: 1691243663}
   m_Layer: 0
   m_Name: Main Camera
   m_TagString: MainCamera
@@ -32,7 +32,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 859277763570030138}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: -1.32, y: -112, z: 10.1}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 859277764211401738}
@@ -47,7 +47,7 @@ Camera:
   m_GameObject: {fileID: 859277763570030138}
   m_Enabled: 1
   serializedVersion: 2
-  m_ClearFlags: 2
+  m_ClearFlags: 1
   m_BackGroundColor: {r: 0, g: 0, b: 0, a: 1}
   m_projectionMatrixMode: 1
   m_GateFitMode: 2
@@ -227,7 +227,7 @@ Skybox:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 859277763570030138}
   m_Enabled: 1
-  m_CustomSkybox: {fileID: 0}
+  m_CustomSkybox: {fileID: 2100000, guid: b0146105f4e4c5f408407884764a3f06, type: 2}
 --- !u!114 &859277763570030157
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -240,7 +240,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8b9c599bb8dcccf448a8788e94533644, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
---- !u!114 &859277763570030130
+--- !u!114 &1691243663
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
