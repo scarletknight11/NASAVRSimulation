@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 1834907818
+CRC: 3464428152
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: fef309ce8b66b83a6fd7bd942fe06a56
+    Hash: 3809777ef23d2652e4247b1faaa2dd83
   TypeTreeHash:
     serializedVersion: 2
     Hash: c21d61fe394c58399df3c6fb5c7c99b3
@@ -27,6 +27,7 @@ Assets:
 - Assets/MRTK.Tutorials.GettingStarted/Textures/6.png
 - Assets/MRTK/StandardAssets/Textures/IridescentSpectrum.png
 - Assets/MRTK/SDK/StandardAssets/Textures/IconHome.png
+- Assets/MRTK/SDK/StandardAssets/Textures/IconMessage.png
 - Assets/Plugins/Excelsior/Common/Textures/gradientVertical.png
 - Assets/Plugins/Excelsior/CSFHI/Sprites/txt02.png
 - Assets/MRTK/StandardAssets/Textures/MRTK_Logo_White.png
@@ -41,7 +42,6 @@ Assets:
 - Assets/MRTK/SDK/StandardAssets/Textures/IconHandRay.png
 - Assets/MRTK/StandardAssets/Textures/MouseCursor.png
 - Assets/MRTK.Tutorials.GettingStarted/Textures/10.png
-- Packages/com.unity.cinemachine/Editor/EditorResources/cm_logo_sm.png
 - Assets/MRTK/SDK/StandardAssets/Textures/IconRefresh.png
 - Assets/MRTK/SDK/StandardAssets/Textures/IconStar.png
 - Assets/MRTK/Examples/StandardAssets/Textures/CoffeeFoam.png

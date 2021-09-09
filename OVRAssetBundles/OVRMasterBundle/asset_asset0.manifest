@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 1383498200
+CRC: 2650047131
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 0496b97e48bca02adf05e0189b28c604
+    Hash: 37d1fe9b6f2c0fca264312b270d75869
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 013a44786f791a38a9966c9917c7670f
+    Hash: a28f1d2f33cbe96ad4aa639e6465aeaa
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -33,8 +33,6 @@ ClassTypes:
   Script: {fileID: 11500000, guid: a4a1c93114e9437cb75d8b3ee4e0e1ba, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: d561f5f963b45674aa423435fb820879, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: b7f59e54f2bfd184b9dd451a678d089b, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: d1a15d870c8b4e52acc4643bd258ed6e, type: 3}
 - Class: 114
@@ -73,7 +71,6 @@ Assets:
 - Assets/MRTK/SDK/Features/UX/Interactable/Themes/AppBarButtonIconTheme.asset
 - Assets/MRTK/SDK/Profiles/DefaultMixedRealityXRSDKControllerVisualizationProfile.asset
 - Assets/MRTK/SDK/Profiles/DefaultMixedRealityInputRecordingProfile.asset
-- Packages/com.unity.cinemachine/Presets/Noise/Handheld_wideangle_mild.asset
 - Assets/MRTK/SDK/Profiles/DefaultMixedRealityControllerMappingProfile.asset
 - Assets/MRTK/SDK/Profiles/DefaultMixedRealityDiagnosticsProfile.asset
 - Assets/MRTK/SDK/Profiles/DefaultMixedRealitySceneSystemProfile.asset
@@ -86,6 +83,7 @@ Assets:
 - Assets/MRTK/SDK/Profiles/DefaultMixedRealityInputSystemProfile.asset
 - Assets/MRTK/Providers/XRSDK/Profiles/DefaultXRSDKSpatialAwarenessSystemProfile.asset
 - Assets/MRTK/SDK/Profiles/DefaultMixedRealitySpatialAwarenessSystemProfile.asset
+- Assets/MRTK/SDK/Profiles/HoloLens2/DefaultHoloLens2HandTrackingProfile.asset
 - Assets/MRTK/SDK/Profiles/DefaultMixedRealitySpeechCommandsProfile.asset
 - Assets/MRTK/SDK/Profiles/DefaultMixedRealityInputActionRulesProfile.asset
 - Assets/MRTK/SDK/Profiles/DefaultMixedRealityControllerVisualizationProfile.asset

@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 2333556165
+CRC: 988115028
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 7da0b44202a2c7d5ee6b4d76c0847797
+    Hash: f224b4e6f75fd05e543f03b2e1c03ea1
   TypeTreeHash:
     serializedVersion: 2
-    Hash: d681350b0aedac7199071bb92889c553
+    Hash: fdb6225baafbc54f332bd59d55be11af
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -56,8 +56,6 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: ff4e3b9019304b5aaec5664de0778d21, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: 6682dc6245ac3fd4ea723a628fbee9ee, type: 3}
-- Class: 114
   Script: {fileID: 11500000, guid: 8b9c599bb8dcccf448a8788e94533644, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 4ae6b815054539c4cbce3013daf8f276, type: 3}
@@ -68,13 +66,7 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: 60e108b635a73db40a8d3c02d87c249f, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: 45e653bab7fb20e499bda25e1b646fea, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: 1e8b78ac948f05a46a6d8339a503172b, type: 3}
-- Class: 114
   Script: {fileID: 11500000, guid: 81c169a39f8e430d869bbc5d938b0e5a, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: 889e684278db8a542aa634e254b665aa, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 30cbcc924a054d259edafaeb0a82f2ac, type: 3}
 - Class: 114
@@ -114,15 +106,15 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: a86b28bfea793ef4ea0e3956e5ba03a9, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: 99a9c787e5d1bbf48a389834c4a9641c, type: 3}
-- Class: 114
   Script: {fileID: 11500000, guid: 8200a044a5affb843ba856b902d9fd3c, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 04b1ba3412a235c4d8c3eb2a18528b67, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: b7f59e54f2bfd184b9dd451a678d089b, type: 3}
+  Script: {fileID: 11500000, guid: 5d11c9594c7919e41991b47c0a9275f2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: db568ff594a361d4e9a9ac960905ddd3, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: cf12ee76e7e00a44a9a84256760020e6, type: 3}
 - Class: 114
@@ -133,8 +125,6 @@ ClassTypes:
   Script: {fileID: 11500000, guid: 3d5970893ef64ed4aa155d71e6c515ca, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 36065390e01a3cd40b87e4bf4acd02f9, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: 68bb026fafb42b14791938953eaace77, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 85b0e186e2c82324b83f3696c29cf697, type: 3}
 - Class: 114
@@ -154,8 +144,6 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: 7b743370ac3e4ec2a1668f5455a8ef8a, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: ac0b09e7857660247b1477e93731de29, type: 3}
-- Class: 114
   Script: {fileID: 11500000, guid: 7a21b486d0bb44444b1418aaa38b44de, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 9c523107adbf4a9b8ca63b83f2f89aba, type: 3}
@@ -169,8 +157,6 @@ ClassTypes:
   Script: {fileID: 11500000, guid: 22217b78c404b3d41816e937276869ab, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 3245ec927659c4140ac4f8d17403cc18, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: a200b19ca1a9685429ed7e043c28e904, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: bed961c399800584ba77a743bcd9275c, type: 3}
 - Class: 114
@@ -205,8 +191,6 @@ ClassTypes:
   Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 45d3baa0a5986c24cbf0a6f6dcef2ec7, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: 2dfa7178ac1c18947adff71ef2792a84, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 4ea7dc4a5a95cb84584659cbc5279700, type: 3}
 - Class: 114
@@ -253,6 +237,7 @@ ClassTypes:
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
+- Assets/MRTK/SDK/Features/UX/Prefabs/Sliders/PinchSlider.prefab
 - Assets/MRTK/SDK/StandardAssets/Prefabs/32x32mm_Square.prefab
 - Assets/MRTK/SDK/Features/UX/Prefabs/Cursors/TeleportCursor.prefab
 - Assets/MRTK/Examples/StandardAssets/Prefabs/Cheese.prefab
@@ -270,7 +255,6 @@ Assets:
 - Assets/MRTK/SDK/Features/UX/Interactable/Prefabs/PressableButtonHololens2UnityUI.prefab
 - Assets/MRTK/SDK/Experimental/MixedRealityKeyboard/Prefabs/MRKeyboardInputField_UGUI.prefab
 - Assets/MRTK/SDK/Features/UX/Prefabs/Slate/SlateUGUI.prefab
-- Assets/MRTK/SDK/Features/UX/Prefabs/Pointers/ConicalGrabPointer.prefab
 - Assets/Lunar Landscape 3D/Prefabs/Rocks_01.prefab
 - Assets/MRTK/SDK/StandardAssets/Controllers/DebugControllers/GizmoLeft.prefab
 - Assets/Prefabs/MixedRealityPlayspace.prefab
@@ -284,7 +268,6 @@ Assets:
 - Assets/MRTK/SDK/Features/UX/Prefabs/Panels/ToggleFeaturesPanel.prefab
 - Assets/MRTK/SDK/Features/UX/Prefabs/Pointers/ShellHandRayPointer.prefab
 Dependencies:
-- C:/Users/sanji/OneDrive/Documents/GitHub/NASAVRSimulation/OVRAssetBundles/OVRMasterBundle/asset_asset0
 - C:/Users/sanji/OneDrive/Documents/GitHub/NASAVRSimulation/OVRAssetBundles/OVRMasterBundle/asset_asset1
 - C:/Users/sanji/OneDrive/Documents/GitHub/NASAVRSimulation/OVRAssetBundles/OVRMasterBundle/asset_controller0
 - C:/Users/sanji/OneDrive/Documents/GitHub/NASAVRSimulation/OVRAssetBundles/OVRMasterBundle/asset_fbx0

@@ -1,16 +1,14 @@
 ManifestFileVersion: 0
-CRC: 749074681
+CRC: 901348464
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: d5ef065a0a2c0a1ae455947c00bf6a96
+    Hash: cdfa0f7a36383da016fa2d7a75b763a9
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 8df3a46710f6dad72ee6b584bca162ec
+    Hash: 19f1ead7640fa33a6fd10bd736af31d5
 HashAppended: 0
 ClassTypes:
-- Class: 1
-  Script: {instanceID: 0}
 - Class: 21
   Script: {instanceID: 0}
 - Class: 28
@@ -75,7 +73,6 @@ Assets:
 - Assets/MRTK/SDK/Features/UX/Interactable/Themes/HolographicButtonBackPlate.asset
 - Assets/MRTK/SDK/Features/UX/Buttons/DefaultIconSet.asset
 - Assets/MRTK/SDK/Features/UX/Interactable/Themes/PressableButtonFrontPlate.asset
-- Assets/MRTK/SDK/Profiles/HoloLens2/DefaultHoloLens2HandTrackingProfile.asset
 - Assets/MRTK/StandardAssets/FontsSDFTextures/seguisb SDF zwriteOff.asset
 - Assets/MRTK/SDK/Features/UX/Interactable/Themes/PianoKeyThemeBlack.asset
 - Assets/MRTK/StandardAssets/FontsSDFTextures/seguisb SDF.asset
@@ -95,7 +92,5 @@ Dependencies:
 - C:/Users/sanji/OneDrive/Documents/GitHub/NASAVRSimulation/OVRAssetBundles/OVRMasterBundle/asset_asset0
 - C:/Users/sanji/OneDrive/Documents/GitHub/NASAVRSimulation/OVRAssetBundles/OVRMasterBundle/asset_png0
 - C:/Users/sanji/OneDrive/Documents/GitHub/NASAVRSimulation/OVRAssetBundles/OVRMasterBundle/asset_png1
-- C:/Users/sanji/OneDrive/Documents/GitHub/NASAVRSimulation/OVRAssetBundles/OVRMasterBundle/asset_prefab0
-- C:/Users/sanji/OneDrive/Documents/GitHub/NASAVRSimulation/OVRAssetBundles/OVRMasterBundle/asset_prefab1
 - C:/Users/sanji/OneDrive/Documents/GitHub/NASAVRSimulation/OVRAssetBundles/OVRMasterBundle/asset_psd0
 - C:/Users/sanji/OneDrive/Documents/GitHub/NASAVRSimulation/OVRAssetBundles/OVRMasterBundle/asset_shader0

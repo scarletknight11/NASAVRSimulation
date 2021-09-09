@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 3897667041
+CRC: 4204826927
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 6e3390a5dfdce983b8e053bca9e3af8f
+    Hash: a881253ce8fbded5020d24fe4ba50288
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 896abb461db74983743804c7ce78fbbc
+    Hash: 3d08f6413ae5ba0d71f333afcfdb10b2
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -32,10 +32,6 @@ ClassTypes:
 - Class: 82
   Script: {instanceID: 0}
 - Class: 83
-  Script: {instanceID: 0}
-- Class: 91
-  Script: {instanceID: 0}
-- Class: 95
   Script: {instanceID: 0}
 - Class: 114
   Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
@@ -85,10 +81,6 @@ ClassTypes:
   Script: {fileID: 11500000, guid: 8200a044a5affb843ba856b902d9fd3c, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: 5d11c9594c7919e41991b47c0a9275f2, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: db568ff594a361d4e9a9ac960905ddd3, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: cf12ee76e7e00a44a9a84256760020e6, type: 3}
 - Class: 114
@@ -175,14 +167,11 @@ Assets:
 - Assets/MRTK/SDK/Features/UX/Prefabs/Slate/Slate.prefab
 - Assets/MRTK/Examples/Common/Prefabs/Help_Panel_Viewer.prefab
 - Assets/MRTK/SDK/Features/UX/Prefabs/AppBar/AppBar.prefab
-- Assets/MRTK/SDK/Features/UX/Prefabs/Sliders/PinchSlider.prefab
 - Assets/MRTK/Examples/Common/Prefabs/PianoKey.prefab
 Dependencies:
 - C:/Users/sanji/OneDrive/Documents/GitHub/NASAVRSimulation/OVRAssetBundles/OVRMasterBundle/asset_asset0
 - C:/Users/sanji/OneDrive/Documents/GitHub/NASAVRSimulation/OVRAssetBundles/OVRMasterBundle/asset_asset1
-- C:/Users/sanji/OneDrive/Documents/GitHub/NASAVRSimulation/OVRAssetBundles/OVRMasterBundle/asset_controller0
 - C:/Users/sanji/OneDrive/Documents/GitHub/NASAVRSimulation/OVRAssetBundles/OVRMasterBundle/asset_fbx0
-- C:/Users/sanji/OneDrive/Documents/GitHub/NASAVRSimulation/OVRAssetBundles/OVRMasterBundle/asset_fbx1
 - C:/Users/sanji/OneDrive/Documents/GitHub/NASAVRSimulation/OVRAssetBundles/OVRMasterBundle/asset_mat0
 - C:/Users/sanji/OneDrive/Documents/GitHub/NASAVRSimulation/OVRAssetBundles/OVRMasterBundle/asset_mat1
 - C:/Users/sanji/OneDrive/Documents/GitHub/NASAVRSimulation/OVRAssetBundles/OVRMasterBundle/asset_mat2

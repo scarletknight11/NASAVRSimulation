@@ -4,12 +4,13 @@ using Newtonsoft.Json;
 using UnityEngine;
 using UnityEngine.Networking;
 using UnityEngine.UI;
+using TMPro;
 
 public class DataRequest : MonoBehaviour
 {
    string url = "http://localhost:3000/api/simulation/state";
-    
-   Text timer; 
+
+    TextMeshPro timer; 
    
    Text heart_bpm;
    Text p_sub;
@@ -52,8 +53,8 @@ public class DataRequest : MonoBehaviour
         {
             var data = JsonConvert.DeserializeObject<DataResponse>(request.downloadHandler.text);
 
-            timer = GameObject.Find("timer").GetComponent<Text>();
-            timer.text = "EVA Time: "+(data.timer.ToString()) + "";
+            timer = GameObject.Find("timer").GetComponent<TextMeshPro>();
+            timer.text = "EVA Time: "+ (data.timer.ToString()) + "";
 
             heart_bpm = GameObject.Find("heart_bpm").GetComponent<Text>();
             heart_bpm.text = "Heart Rate: " + (data.heart_bpm.ToString()) + " BPM";

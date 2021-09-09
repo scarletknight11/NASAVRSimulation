@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 1580249549
+CRC: 850262832
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 5b681f047c974202a71bd7d1e4c5b155
+    Hash: 11d9ef984d2a19bb132772979c56adbb
   TypeTreeHash:
     serializedVersion: 2
     Hash: b0363f7088f9761414f730641bf9a24b
@@ -16,7 +16,6 @@ Assets:
 - Assets/MRTK/SDK/StandardAssets/Textures/IconSettings.png
 - Assets/MRTK/Examples/StandardAssets/Models/Tree.fbm/5.png
 - Assets/MRTK/SDK/StandardAssets/Textures/IconDot.png
-- Assets/MRTK/SDK/StandardAssets/Textures/IconMessage.png
 - Assets/MRTK/SDK/StandardAssets/Textures/IconHide.png
 - Assets/MRTK/SDK/StandardAssets/Textures/IconHandJoint.png
 - Assets/MRTK/SDK/StandardAssets/Textures/IconAdjust.png
